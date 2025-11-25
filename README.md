@@ -69,9 +69,9 @@ AI-powered tools for DevOps automation
 
 ## 📫 Connect With Me  
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/  
-- 🌐 **Portfolio:** *([Portfolio](https://samyakkumar-jain-0327rhb.gamma.site/))*  
-- 📨 **Email:** *(samyakjain5111997@gmail.com)*  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/samyakkumar-jain  
+- 🌐 **Portfolio:** [Portfolio](https://samyakkumar-jain-0327rhb.gamma.site/)
+- 📨 **Email:** samyakjain5111997@gmail.com
 
 ---
 
