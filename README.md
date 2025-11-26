@@ -64,6 +64,10 @@ I focus on **building tools** that improve engineering speed, reliability, and c
 AI-powered tools for DevOps automation  
 ➡️ https://github.com/samyaktempwork-cell/devops-copilot-zypher-agent-corespeed
 
+### 🔸 **DevOps E-Commerce Platform**
+DevOps learning project built around a functional mini e-commerce application  
+➡️ https://github.com/samyaktempwork-cell/devops-ecommerce-platform
+
 ---
 
 
